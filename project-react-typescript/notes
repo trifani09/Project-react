@@ -1,0 +1,41 @@
+src/
+├── components/  → komponen reusable
+├── features/    → bagian khusus per halaman
+├── locales/     → text / bahasa / content JSON
+├── config/      → konfigurasi website
+├── lib/         → helper function
+├── pages/       → halaman website
+├── styles/      → CSS global dan warna
+├── App.tsx      → routing utama
+└── main.tsx     → pintu masuk React
+
+
+components/ui       = design system kecil
+components/layout   = navbar, footer, layout
+components/blocks   = reusable section template
+features/home       = section khusus homepage web
+pages/Home.tsx      = penyusun halaman
+config/siteConfig   = nama brand, warna, contact, link
+
+main.tsx menjalankan App.tsx
+App.tsx menentukan halaman
+Home.tsx menyusun section
+section mengambil content dari JSON
+component menampilkan UI
+
+ui        = part kecil seperti button, card, container
+layout    = navbar, footer, pembungkus halaman
+blocks    = template section reusable
+features  = section khusus page tertentu
+locales   = semua text/content JSON
+config    = setting website
+lib       = helper untuk bahasa, CDN, API
+pages     = halaman website
+styles    = CSS dan warna
+App.tsx   = routing
+main.tsx  = starter React
+
+fonts.css       → tempat @font-face
+theme.css       → tempat warna
+typography.css  → default h1, h2, p, button, input
+tailwind.config → token Tailwind seperti text-h1, bg-primary

@@ -1,0 +1,610 @@
+{
+  "menus": {
+    "title_company": "Company",
+    "company": {
+      "about": "About Us",
+      "our_location": "Our Locations"
+    },
+    "product": "Products",
+    "market_insight": "Market Insights",
+    "career": "Career",
+    "contact": "Contact Us",
+    "sign_in": "Sign In",
+    "back": "Back"
+  },
+  "home": {
+    "title_banner": "Leading Beta Pinene Supplier",
+    "desc_banner": "Beta Pinene for fragrance ingredients, flavor compounds, and terpene derivatives used in chemical manufacturing.",
+    "title_card_one": "Our Global Presence",
+    "desc_card_one": "Meeting your business needs through innovative solutions wherever you are",
+    "title_card_two": "Get Trend and Market Analysis",
+    "desc_card_two": "Explore trends, analysis, and product demand updates",
+    "title_card_three": "Request a Product Quote",
+    "desc_card_three": "Get a customized quotation based on your product needs",
+    "subtitle_about": "Who Are We?",
+    "title_about": "About Tradeasia",
+    "desc_about": "Tradeasia International Pte. Ltd. has a strong presence in the trading and distribution of industrial chemicals, including Beta Pinene. With an established network across Asia Pacific, the European Union, and the Middle East, we support various industries requiring terpene-based raw materials. Our customers are provided not only with Beta Pinene for applications such as fragrance formulation, flavor production, and chemical manufacturing, but also with integrated supply chain support. In addition, we offer a wide range of chemical products and raw materials to meet diverse industrial requirements.",
+    "subtitle_top_product": "Our Products",
+    "title_top_product": " Our Product of Beta Pinene",
+    "desc_top_product": "Beta pinene, also known as Rosemarel, is an organic compound with the chemical formula C₁₀H₁₆ and belongs to the monoterpene group. Monoterpenes are widely recognized for their aromatic properties, making them commonly used in perfumes, cosmetics, and food formulations. Beta pinene is characterized by its distinctive woody, pine-like scent and plays a significant role in fragrance and personal care applications. Industrially, Beta pinene is primarily produced through the fractional distillation of turpentine oil, which remains the most widely used method for its extraction and refinement.",
+    "btn_top_product": "Explore Our Product",
+    "subtitle_manufact": "Manufacturing Process",
+    "title_manufact": "How Quality Beta Pinene are Created",
+    "desc_manufact": "Produced through the distillation and fractionation of natural terpene sources such as gum turpentine obtained from pine resin. First, pine resin is processed to extract crude turpentine, which contains several terpene compounds including alpha-pinene and beta-pinene. The crude turpentine is then subjected to fractional distillation to separate individual terpene components based on their boiling points.",
+    "title_sc": "Our Strength as Your Business Partner",
+    "title_value1": "Supply Chain Solutions",
+    "desc_value1": "Organizing global sourcing and shipment of Beta Pinene to maintain reliable supply for fragrance, flavor, and chemical manufacturing needs.",
+    "title_value2": "Quality Inspection",
+    "desc_value2": "Conducting product quality and quantity checks before shipment to ensure Beta Pinene meets required industrial specifications.",
+    "title_value3": "Efficient Transport",
+    "desc_value3": "Providing safe and compliant logistics solutions for transporting Beta Pinene across international markets.",
+    "subtitle_product_app": "Product Applications",
+    "title_product_app": "Discover Beta Pinene Uses",
+    "title_market_insight": "Market Insights",
+    "button_market_insight": "View More",
+    "product_app": [
+      {
+        "icon": "fragrance",
+        "title": "Fragrance Industry",
+        "desc": "Beta Pinene is used as a raw material in the production of aroma chemicals and fragrance ingredients for perfumes, personal care products, and household fragrances.",
+        "image": "https://cdn.chemtradeasia.com/product-websites/product-applications/fragrance.webp",
+        "alt": "Fragrance Industry"
+      },
+      {
+        "icon": "food",
+        "title": "Food Additives",
+        "desc": "Beta Pinene is utilized in the synthesis of flavor compounds used in food and beverage formulations to create fresh, pine-like flavor profiles.",
+        "image": "https://cdn.chemtradeasia.com/product-websites/product-applications/food.webp",
+        "alt": "Food Additives"
+      },
+      {
+        "icon": "chemical",
+        "title": "Chemical Industry",
+        "desc": "Beta Pinene serves as an important intermediate in the production of terpene derivatives used in specialty chemicals and industrial formulations.",
+        "image": "https://cdn.chemtradeasia.com/product-websites/product-applications/chemical.webp",
+        "alt": "Chemical Industry"
+      },
+      {
+        "icon": "resin",
+        "title": "Resin Production",
+        "desc": "Beta Pinene is used in the manufacturing of terpene resins that function as tackifiers in adhesives, coatings, and printing inks.",
+        "image": "https://cdn.chemtradeasia.com/product-websites/product-applications/resin.webp",
+        "alt": "Resin Production"
+      },
+      {
+        "icon": "detergent",
+        "title": "Detergent Industry",
+        "desc": "Beta Pinene is applied in the formulation of solvents and cleaning agents due to its terpene-based chemical properties.",
+        "image": "https://cdn.chemtradeasia.com/product-websites/product-applications/detergent.webp",
+        "alt": "Detergent Industry"
+      }
+    ]
+  },
+  "about": {
+    "title_banner": "About Us",
+    "home": "Home",
+    "page_name": "About Us",
+    "subtitle_sect": "Who Are We?",
+    "title_sect": "Your Trusted Global Partner for Beta Pinene Chemical Solutions",
+    "desc_1": "Founded in 2004, Tradeasia International Pte. Ltd. is a privately owned, independent company headquartered in Singapore. We are a global trading organization, offering reliable and integrated chemical procurement services with certainty and trust.",
+    "desc_2": "Our mission at Tradeasia International is to enhance chemical distribution services, especially for commodity industries worldwide. With sustained growth, we now represent a growing array of enterprises, offering a diverse range of chemical products across global markets. Dedicated to quality, we consistently procure and distribute 500-600 containers monthly to clients around the world.",
+    "desc_3": ".By ensuring a reliable and efficient supply chain, we help maintain consistent production and operational continuity for our customers. Our solutions cater to various industrial needs, including fragrance formulation, flavor production, and terpene-based chemical applications. With a strong presence across Asia and an expanding worldwide network, our mission is to provide dependable supply, technical expertise, and products that meet international standards, making us a trusted partner in the Beta Pinene and chemical industry.",
+    "title_vm": "Vision & Mission ",
+    "title_vision": "Our Vision",
+    "desc_vision": "To be a reliable and trustworthy partner in the global supply chain of raw materials",
+    "title_mission": "Our Mission",
+    "desc_mission": "To supply good quality products and services delivered using effective Supply Chain Solutionss while providing profitable and sustainable growth to all our stakeholders",
+    "title_value": "Our Values",
+    "values": [
+      {
+        "icon": "value1",
+        "title": "Trust",
+        "desc": "Build strong relations with all stakeholders - customers, employees, and our business partners based on commitment and trust."
+      },
+      {
+        "icon": "value2",
+        "title": "Integrity",
+        "desc": "We do business honestly in accordance to our values."
+      },
+      {
+        "icon": "value3",
+        "title": "Commitment",
+        "desc": "We are accountable for our duties with high professionalism to all our stakeholders."
+      },
+      {
+        "icon": "value4",
+        "title": "Sustainability",
+        "desc": "We commit to perform our business duties with the utmost commitment to the environment and the world."
+      },
+      {
+        "icon": "value5",
+        "title": "Entrepreneurship",
+        "desc": "Act with entrepreneurship to grow together with all our stakeholders - customers, employees and business partners."
+      },
+      {
+        "icon": "value6",
+        "title": "Partnership",
+        "desc": "Treasure teamwork and develop strong cooperation to create excellent solutions for all our customers and business partners."
+      }
+    ],
+    "title_why": "Why Choose Us?",
+    "desc_why": "The Prime Choice for Your Chemical Solutions",
+    "why_choose": [
+      {
+        "icon": "value1",
+        "link": "/en/products",
+        "title": "Broad Product Portfolio",
+        "desc": "Our company gives you a wide selection of quality products to fulfill your raw materials needs. We have hundreds products for you to choose."
+      },
+      {
+        "icon": "value2",
+        "link": "/en/our-location",
+        "title": "Global Reach with Local Expertise",
+        "desc": "With global coverage and experienced local teams, we deliver Beta Pinene efficiently while providing responsive and reliable support for your operational needs."
+      },
+      {
+        "icon": "value3",
+        "link": "/en/streamlined-process",
+        "title": "Streamlined Process",
+        "desc": "As an integrated supply chain company, we give you our best service and help you track your products until they reach you."
+      }
+    ],
+    "title_video": "We are Tradeasia",
+    "desc_video": "Discover further details about our values, our commitment, and our approach to supplying Beta Pinene for fragrance, flavor, and terpene chemical applications through reliable sourcing and global distribution expertise.",
+    "button_video": "Go To Company Website"
+  },
+  "product": {
+    "title_banner": "Product Catalog",
+    "home": "Home",
+    "page_name": "Products",
+    "page_name_detail": "Product",
+    "info_title": "Basic Information",
+    "iupac": "IUPAC Name",
+    "cas_number": "CAS Number",
+    "hs_code": "HS Code",
+    "formula": "Formula",
+    "appearance": "Appearance",
+    "common_names": "Common Names",
+    "packaging": "Packaging",
+    "description": "Product Description",
+    "application": "Product Application",
+    "technical_document": "Technical Document",
+    "type": "Type",
+    "grade": "Grade",
+    "origin": "Origin",
+    "no_doc": "No technical documents available",
+    "interest_title": "Interested in this product?",
+    "interest_desc": "For more detailed information including pricing, customization, and shipping:",
+    "inquire_btn": "Inquire Now",
+    "load_more": "Load More Products",
+    "explore_title": "Explore More Products"
+  },
+  "share_title": "Share This Post:",
+  "our_location": {
+    "title_banner": "Our Locations",
+    "home": "Home",
+    "page_name": "Our Locations",
+    "title_section": "Discover Our Global Network and Accessible Locations",
+    "countries": [
+      {
+        "class": "brazil",
+        "data_name": "brazil",
+        "title": "Brazil"
+      },
+      {
+        "class": "egypt",
+        "data_name": "egypt",
+        "title": "Egypt"
+      },
+      {
+        "class": "uae",
+        "data_name": "uae",
+        "title": "UAE"
+      },
+      {
+        "class": "india",
+        "data_name": "india",
+        "title": "India"
+      },
+      {
+        "class": "bangladesh",
+        "data_name": "bangladesh",
+        "title": "Bangladesh"
+      },
+      {
+        "class": "sri-lanka",
+        "data_name": "sri-lanka",
+        "title": "Srilanka"
+      },
+      {
+        "class": "indonesia",
+        "data_name": "indonesia",
+        "title": "Indonesia"
+      },
+      {
+        "class": "republic-of-singapore",
+        "data_name": "republic-of-singapore",
+        "title": "Singapore"
+      },
+      {
+        "class": "thailand",
+        "data_name": "thailand",
+        "title": "Thailand"
+      },
+      {
+        "class": "vietnam",
+        "data_name": "vietnam",
+        "title": "Vietnam"
+      },
+      {
+        "class": "philipines",
+        "data_name": "philippines",
+        "title": "Philippines"
+      },
+      {
+        "class": "china",
+        "data_name": "china",
+        "title": "China"
+      },
+      {
+        "class": "south-korea",
+        "data_name": "south-korea",
+        "title": "South Korea"
+      },
+      {
+        "class": "jordan",
+        "data_name": "jordan",
+        "title": "Jordan"
+      },
+      {
+        "class": "tunisia",
+        "data_name": "tunisia",
+        "title": "Tunisia"
+      }
+    ],
+    "email_label": "Email Address",
+    "phone_label": "Phone Number",
+    "button_location": "See Locations"
+  },
+  "contact_us": {
+    "title_banner": "Contact Us",
+    "home": "Home",
+    "page_name": "Contact Us",
+    "how_label": "How We Can Help You?",
+    "inquiry": "General Inquiry",
+    "rfq": "Request For Quotation",
+    "supplier": "Become Our Supplier",
+    "product": "Product Name",
+    "quantity": "Quantity",
+    "incoterm": "Incoterm",
+    "country": "Country",
+    "salutation": "Salutation",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "company": "Company",
+    "message": "Message",
+    "email": "Business Email",
+    "email_add": "Email Address",
+    "phone_number": "Phone Number",
+    "type": "Type of Supplier",
+    "quest_product": "What product(s) do you want to sell?",
+    "title_section": "Let's get in touch",
+    "desc_section": "Feel free to drop us a message by filling in the form. Our representative shall contact you in due course.",
+    "email_label": "Email Address",
+    "wa_label": "Contact Us on Whatsapp",
+    "checkbox1": "I agree to allow Tradeasia to use my personal data for operational and business purposes as outlined in Tradeasia's",
+    "privacy": "Privacy Policy",
+    "and": "and",
+    "term": "Term and Conditions",
+    "checkbox2": "I would like to subscribe to the newsletter of Tradeasia and consent to the processing of my data for registration and sending of newsletters."
+  },
+  "faq": {
+    "title_banner": "Frequently Asked Questions",
+    "home": "Home",
+    "page_name": "FAQ",
+    "title_section": "Relevant Information You Might Need",
+    "desc_section": "Here, you will find frequently asked questions from our customers about Tradeasia company, products, order processing, how to become our supplier, and other topics."
+  },
+  "customer_support": {
+    "title_banner": "Customer Support",
+    "home": "Home",
+    "page_name": "Customer Support",
+    "title_section": "Here to Help You Find What You Need",
+    "desc_section": "Find answers to the most relevant questions across various key areas of our services. Whether you're a new customer or an existing customer, the information provided is designed to guide you through essential processes and provide the support you need",
+    "title_popular": "Most Popular Questions",
+    "desc_popular": "Here are the top questions users frequently ask. Find clear and concise answers to help you navigate our products, services, and processes with ease.",
+    "title_cta": "Need More Help?",
+    "desc_cta": "We're ready to support you with accurate information and fast responses tailored to your needs.",
+    "button_cta": "Contact Us",
+    "title_other": "Other Topics",
+    "button_other": "See Details"
+  },
+  "market_insight": {
+    "home": "Home",
+    "page_name": "Market Insight",
+    "title_section": "Explore Market Trends and Industry Intelligence",
+    "desc_section": "Gain a deeper understanding of the factors shaping chemical markets—from demand trends and application insights to supply movements, regulations, pricing, and market analysis.",
+    "title_news1": "Don't miss out on our updates!",
+    "title_news2": "Subscribe to our newsletter now",
+    "button_news": "Subscribe",
+    "desc_news": "We're committed to your privacy. Tradeasia uses the information you provide to us to contact you about our relevant content, products, and services. For more information, check out our privacy policy.",
+    "information": "Information",
+    "stay": "Stay tune for our updated market insights",
+    "featured": "Featured",
+    "updated": "Our updated market insight will be displayed here",
+    "select": "Select Industry",
+    "filter": "Filter by",
+    "sort": "Sort by",
+    "article_opt": "Article",
+    "market_opt": "Market Insight",
+    "search": "Search",
+    "load_more": "Load More",
+    "tag": "Tags",
+    "continue_read": "Continue Reading This Article?",
+    "complete_article": "Access the complete article and discover related coverage."
+  },
+  "search_result": {
+    "home": "Home",
+    "page_name": "Search Result",
+    "web_page": "Web Pages",
+    "market_insight": "Market Insights",
+    "load_more": "Load More",
+    "title_cta": "Can't find what you're looking for?",
+    "desc_cta": "Reach out and our team will review your needs and help direct you to the most relevant resources or solutions.",
+    "btn_cta": "Contact Us Now"
+  },
+  "profile": {
+    "title_page": "My Profile",
+    "subtitle_page": "Profile Photo",
+    "notes_img": "Must be a .jpg or .png file smaller than 2 MB",
+    "upload_title": "Upload profile picture",
+    "btn_change": "Change Photo",
+    "btn_remove": "Remove Photo",
+    "btn_upload": "Upload Photo",
+    "btn_cancel": "Cancel",
+    "btn_save": "Save Image",
+    "quest_title": "Are you sure you want to proceed?",
+    "desc_title": "Your current profile picture will be deleted. You can replace it later if needed.",
+    "contact_info": "Contact Information",
+    "drag": "Drag and drop files here",
+    "or": "or",
+    "choose": "Choose File"
+  },
+  "privacy_policy": {
+    "home": "Home",
+    "page_name": "Privacy Policy",
+    "title": "Privacy Policy",
+    "intro": [
+      "At www.chemtradeasia.com (main company website) and other websites (sub-industry and country specific/local version of main website) owned by Tradeasia International Pte. Ltd, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by Tradeasia International and how we use it.",
+      "If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collected in www.chemtradeasia.com and other websites by Tradeasia International. This policy is not applicable to any information collected offline or via channels other than this website."
+    ],
+    "consent_title": "Consent",
+    "consent_desc": "By using our website, you hereby consent to our Privacy Policy and agree to its terms.",
+    "info_collect_title": "Information We Collect",
+    "info_collect": [
+      "The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.",
+      "If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number."
+    ],
+    "cookies_title": "Cookies and Web Beacons",
+    "cookies_desc": "Like any other website, www.chemtradeasia.com and other Tradeasia International websites use Cookies and similar technologies to track the activity on Our service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to store information including visitors preferences, and the pages on the website that the visitor accessed or visited. The technologies We use may include:",
+    "cookies_items": [
+      {
+        "title": "Cookies or Browser Cookies.",
+        "desc": "A cookie is a small file placed on your Device. you can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some parts of our service. Unless you have adjusted your browser setting so that it will refuse cookies, our service may use cookies."
+      },
+      {
+        "title": "Web Beacons",
+        "desc": "Certain sections of our service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit We, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity)."
+      }
+    ],
+    "cookies_footer": "The information is used to optimize the users experience by customizing our web page content based on visitors' browser type and/or other information.",
+    "log_files_title": "Log Files",
+    "log_files_desc": "www.chemtradeasia.com and other websites owned by Tradeasia International follow a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this as part of hosting services' analytics. The information collected by log files includes internet protocol (IP) addresses, browser type, Internet service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.",
+    "changes_title": "Changes to this Policy",
+    "changes_desc": "We may amend and update this Privacy Policy from time to time to comply with the Privacy Act. If we do decide to change this Privacy Policy, we will post the changes on this page. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.",
+    "contact_title": "Contact Us",
+    "contact_desc": "If you have any questions or comments about our Policy, our privacy practices, including where a third-party service provider is acting on our behalf, or you would like to contact our Data Protection Officer, or if you would like to exercise your rights with respect to your personal information, please contact us by email or contact us at:",
+    "contact_email": "contact@chemtradeasia.com",
+    "contact_phone": "+65-62276365",
+    "contact_footer": "You can also ask us questions about how to submit a privacy complaint and we will endeavor to help.",
+    "children_title": "Children's Information",
+    "children_desc": "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity. www.chemtradeasia.com and other websites owned by Tradeasia International do not knowingly collect any Personal Identifiable Information from children under the age of 16. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.",
+    "job_applicants_title": "Job Applicants",
+    "job_applicants_desc": "When you visit the Careers portal of our websites, we collect the information that you provide to us in connection with your job application. This includes but is not limited to: (i) business and personal contact information, (ii) professional credentials and skills, (iii) educational and work history, (iv) other information of the type that may be included in a resume. We use this information to facilitate our recruitment activities and process employment applications, such as by evaluating a job candidate for an employment activity, to monitor recruitment statistics and to respond to surveys.",
+    "third_party_title": "Third-Party Privacy Policies",
+    "third_party": [
+      "This website and other Tradeasia International websites' Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.",
+      "you can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.",
+      "PDPA Privacy Rights"
+    ],
+    "pdpa_desc1": "Under the",
+    "pdpa_link": "https://sso.agc.gov.sg/Act/PDPA2012",
+    "pdpa_desc2": "among other rights, consumers have the right to:",
+    "pdpa_rights": [
+      "Right to Access: Individuals have the right to know what personal data is being processed and for what purpose.",
+      "Right to Rectification: Individuals can request corrections to their inaccurate or incomplete personal data.",
+      "Right to Erasure (Right to be Forgotten): In certain circumstances, individuals may request the deletion of their personal data.",
+      "Right to Object: Individuals can object to the processing of their personal data under certain conditions.",
+      "Data Portability: Individuals have the right to obtain and reuse their personal data for their own purposes across different services.",
+      "Right to Restriction of Processing: Individuals can request the restriction of processing their personal data in certain situations.",
+      "Right to be Informed: Individuals have the right to be informed about the collection and use of their personal data."
+    ],
+    "retention_title": "Retention of Personal Information",
+    "retention": [
+      "Where required under applicable laws, we retain personal information only for as long as is necessary to fulfill the purposes for which it was collected and processed, in accordance with our retention policies, and in accordance with applicable laws and regulatory obligations.",
+      "To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of personal information, the purposes for which we use personal information and whether we can achieve those purposes through other means, and the applicable legal and regulatory requirements."
+    ],
+    "security_title": "Security",
+    "security_desc": "We use reasonable organizational, technical and administrative measures designed to protect against unauthorized access, misuse, loss, disclosure, alteration and destruction of personal information we maintain. Unfortunately, data transmission over the Internet cannot be guaranteed as completely secure. Therefore, while we strive to protect your personal information, we cannot guarantee the security of personal information.",
+    "other_sites_title": "Other Sites and Services",
+    "other_sites_desc": "Our Services may contain links to websites and other online services operated by third parties. In addition, our content may be integrated into web pages or other online services that are not associated with us. These links and integrations are not an endorsement of, or representation that we are affiliated with, any third party. We do not control websites or online services operated by third parties, and we are not responsible for their actions. This Privacy Policy does not apply to such third-party sites or services.",
+    "types_info_title": "Types of Information We Collect",
+    "types_info": [
+      {
+        "title": "Personal Information",
+        "desc": "The type of personal information we collect and hold about you depends on the type of dealings that you have with us. If we need to identify you or verify your identity, we may collect your name, gender, date of birth, driver's licence and/or passport details, student ID number, username, password, security question and answer. If we need to communicate with you, we may collect your email, residential and postal addresses and telephone numbers."
+      },
+      {
+        "title": "Sensitive information",
+        "desc": "Sensitive information is personal information such as health information and information about racial or ethnic origin that is generally afforded a higher level of privacy protection. We only collect sensitive information where it is reasonably necessary for our business functions, and you have consented, or we are required to do so by law."
+      },
+      {
+        "title": "Information other than personal information (\"non-personal information\")",
+        "desc": "When you visit our website, some of the information that is collected about your visit is not personal information, because it does not reveal your identity. We use this information to help us improve our services. We may aggregate this information for our own statistical purposes. Provided that it remains anonymous, we may disclose that aggregated information to third parties or publish it for marketing or research purposes."
+      }
+    ],
+    "methods_title": "Methods on How We Collect Personal Information",
+    "methods": [
+      "We will collect personal information by lawful and fair means as required by the Personal Data Protection Act. We will also collect personal information directly from you where this is reasonable and practicable.",
+      "We collect personal information in a number of ways, including: (i) Directly from you in person, over the phone, through written communications (either on paper or electronic) or by you completing forms or answering questions on our websites, (ii) From our own records of your use of our services, (iii) and social media information in which when you visit or interact with our pages on those platforms, you or the platforms may provide us with information through the platform."
+    ],
+    "transfer_title": "Transfer of Personal Information",
+    "transfer": [
+      "Your personal data information is processed at our operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.",
+      "Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.",
+      "We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information."
+    ],
+    "usage_title": "How We Use Personal Information",
+    "usage_desc": "We may use Personal Data for the following purposes:",
+    "usage_list": [
+      "To provide and maintain our Service. We use personal information to operate, maintain, and provide you with our Services. In particular, we use personal information to perform our contractual obligations under our terms of use.",
+      "Communicate with you about our Services. We use personal information to respond to your requests, provide customer support, and communicate with you about our Services, including by sending announcements, updates, security alerts and support and administrative messages.",
+      "Improve, monitor, personalize, and protect our Services. We use personal information to improve and keep our Services safe for our users, which includes: (i) Understanding your needs and interests and personalize your experience with the Services and our communications, (ii) Troubleshooting, testing and research and to keep the Services secure, (iii) Investigating and protecting against fraudulent, harmful, unauthorized or illegal activity.",
+      "Research and development. We may use personal information for research and development purposes, including to analyze and improve the Services and our business. As part of these activities, we may create or use aggregated, de-identified or other anonymized data from personal information we collect. We make personal information into anonymized data by removing information that makes the data personally identifiable to you. We may use this anonymized data and share it with third parties for our lawful business purposes, including to analyze and improve the Services and promote our business.",
+      "Marketing and advertising. We provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information.",
+      "Compliance and protection. We may use personal information to comply with legal obligations, and to defend us against legal claims or disputes, including to: (i) Protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims), (ii) Audit our internal processes for compliance with legal and contractual requirements and internal policies, (iii) Enforce the terms and conditions that govern the Services, (iv) Prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft, (v) and Comply with applicable laws, lawful requests and legal process, such as to respond to subpoenas or requests from government authorities."
+    ]
+  },
+  "terms_condition": {
+    "home": "Home",
+    "page_name": "Terms and Conditions",
+    "title": "Terms & Conditions",
+    "list": [
+      {
+        "title": "Acceptance of Terms and Conditions",
+        "desc": "By accessing and using this website, you are deemed to have read, understood, and accepted all the terms and conditions outlined herein."
+      },
+      {
+        "title": "Use of the Website",
+        "desc": "This website and its content are intended for personal and non-commercial use. The use of this site for unlawful purposes is prohibited."
+      },
+      {
+        "title": "Personal Information",
+        "desc": "By using this website, you agree to provide accurate and up-to-date personal information. We will process your personal information in accordance with the privacy policy stated on this site."
+      },
+      {
+        "title": "User Content",
+        "desc": "You are responsible for all content you upload or share through this site. We reserve the right to remove or modify content deemed to violate these terms and conditions."
+      },
+      {
+        "title": "Intellectual Property Rights",
+        "desc": "All intellectual property rights to the content, design, and other materials on this site are protected by copyright and other intellectual property laws. You are not permitted to use, modify, or distribute this material without written permission."
+      },
+      {
+        "title": "Changes to Terms and Conditions",
+        "desc": "We reserve the right to change, modify, or update these terms and conditions without prior notice. Changes will take effect immediately upon being posted on the website."
+      },
+      {
+        "title": "Limitation of Liability",
+        "desc": "This site is provided \"as is\" and \"as available.\" We make no guarantees or warranties, whether express or implied, regarding the accuracy, reliability, or availability of this site."
+      },
+      {
+        "title": "Governing Law",
+        "desc": "These terms and conditions are governed by and construed in accordance with the laws of Singapore. Any disputes arising from or related to the use of this site will be resolved through legal processes applicable in Singapore"
+      }
+    ]
+  },
+  "authentication": {
+    "welcome": "Welcome back!",
+    "desc_login": "Log in to stay connected and manage your experience with ease.",
+    "google": "Sign in with Google",
+    "microsoft": "Sign in with Microsoft",
+    "apple": "Sign in with Apple",
+    "linkedIn": "Sign in with LinkedIn",
+    "facebook": "Sign in with Facebook",
+    "google_up": "Sign up with Google",
+    "microsoft_up": "Sign up with Microsoft",
+    "apple_up": "Sign up with Apple",
+    "linkedIn_up": "Sign up with LinkedIn",
+    "facebook_up": "Sign up with Facebook",
+    "no_account": "Don't have an account?",
+    "already_account": "Already have an account?",
+    "create_account": "Create an account",
+    "desc_create_account": "Kindly complete the registration form to proceed with account creation.",
+    "sign_up": "Sign Up Here",
+    "sign_in": "Sign In Here",
+    "agree": "By signing up, you agree to our ",
+    "have_read": "and have read and acknowledge the"
+  },
+  "sweetalert": {
+    "error_titles": {
+      "invalid_email_address": "Invalid Email Address",
+      "agreement_required": "Agreement Required",
+      "captcha_verification_needed": "Captcha Verification Needed",
+      "quotation_details_need_review": "Quotation Details Need Review",
+      "supplier_details_need_review": "Supplier Details Need Review",
+      "choose_a_request_type": "Choose a Request Type",
+      "missing_required_information": "Missing Required Information"
+    },
+    "status": {
+      "success_qi": {
+        "title": "Thank you!",
+        "text": "Your inquiry has been submitted successfully"
+      },
+      "success_rfq": {
+        "title": "Quotation Request Sent",
+        "text": "Thank you. Your quotation request has been sent and our team will follow up soon."
+      },
+      "success_bos": {
+        "title": "Supplier Submission Sent",
+        "text": "Thank you. Your supplier information has been sent and our team will review it shortly."
+      },
+      "success_ds": {
+        "title": "Thank you!",
+        "text": "Your inquiry has been submitted successfully"
+      },
+      "success_gi": {
+        "title": "Inquiry Sent Successfully",
+        "text": "Thank you. Your inquiry has been sent and our team will review it shortly."
+      }
+    },
+    "session": {
+      "updated": {
+        "title": "Your profile has changed successfully"
+      },
+      "change_password_success": {
+        "title": "Your password has changed successfully",
+        "text": "You can now sign in securely with your new password"
+      },
+      "submit_password_success": {
+        "title": "Password set successfully!",
+        "text": "You can now log in with your new password."
+      },
+      "success_login": {
+        "title": "Signed In Successfully"
+      },
+      "success_logout": {
+        "title": "You've successfully signed out"
+      },
+      "registration_success": {
+        "title": "Welcome to Tradeasia!",
+        "html": "You're now ready to request quotations and access technical documents for the products you're looking for."
+      },
+      "success": {
+        "title": "Success"
+      },
+      "error": {
+        "title": "Something went wrong"
+      }
+    }
+  },
+  "footer": {
+    "customer-support": "Customer Support",
+    "faq": "FAQ",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions"
+  },
+  "search": {
+    "search_title": "What Are You Looking For?"
+  }
+}

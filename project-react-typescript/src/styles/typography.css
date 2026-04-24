@@ -1,0 +1,78 @@
+@layer base {
+  html {
+    font-family: 'Poppins', system-ui, sans-serif;
+  }
+
+  body {
+    font-family: 'Poppins', system-ui, sans-serif;
+    color: var(--color-body);
+    background-color: #ffffff;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin: 0;
+  }
+
+  button,
+  input,
+  textarea,
+  select {
+    font-family: inherit;
+  }
+
+  h1 {
+    font-weight: 600;
+    letter-spacing: 0;
+    font-size: 50px;
+    line-height: 75px;
+    color: var(--color-title);
+  }
+
+  h2 {
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 66px;
+    color: var(--color-title);
+  }
+
+  h3 {
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 66px;
+    color: var(--color-title);
+  }
+
+  h4 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: var(--color-title);
+  }
+
+  h5 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: var(--color-title);
+  }
+
+  h6 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 29px;
+    color: var(--color-primary);
+  }
+
+  p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: var(--color-body);
+  }
+}

@@ -1,0 +1,30 @@
+:root {
+  --color-primary: #177032;
+  --color-secondary: #B9721F;
+  --color-background: #F4F3EE;
+  --color-title: #19422F;
+  --color-body: #767B76;
+  --color-stroke: #F5F5F5;
+}
+
+.button-primary {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+.button-secondary {
+  background-color: var(--color-secondary);
+  color: white;
+}
+
+.section-bg {
+  background-color: var(--color-background);
+}
+
+.title {
+  color: var(--color-title);
+}
+
+.body-text {
+  color: var(--color-body);
+}
