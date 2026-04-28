@@ -5,7 +5,6 @@ import App from './App.tsx';
 
 import './lib/i18n';
 import './styles/index.css';
-import './styles/buttons.css';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
